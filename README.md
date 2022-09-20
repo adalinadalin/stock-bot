@@ -4,7 +4,7 @@
 https://twstock.readthedocs.io/zh_TW/latest/
 
 ```cmd
-$ sudo pip install twstock
+$ pip install -r requirements.txt
 ```
 
 ## 註冊IFTTT帳號
